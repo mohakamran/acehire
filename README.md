@@ -42,6 +42,16 @@ It conducts structured, role-specific interviews and delivers **honest, realisti
 
 ---
 
+## API Key Setup Method
+
+The project securely reads the API key from an environment variable.
+
+Create a file named .env.local in the project root
+
+Add your Gemini API key inside:
+
+API_KEY=your_gemini_api_key_here
+
 ## 🛠️ Run Locally
 
 ### Prerequisites
