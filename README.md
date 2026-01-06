@@ -1,6 +1,8 @@
 # AceHire
 
-AceHire is an AI-powered interview platform that simulates **real-world job interviews** across multiple fields. It conducts structured, role-specific interviews and delivers **honest, realistic evaluation reports** to help candidates understand their true job readiness.
+AceHire is an AI-powered interview platform that simulates **real-world job interviews** across multiple fields.  
+
+It conducts structured, role-specific interviews and delivers **honest, realistic evaluation reports** to help candidates assess their true job readiness.
 
 ---
 
@@ -22,19 +24,19 @@ AceHire is an AI-powered interview platform that simulates **real-world job inte
 
 ## 🖼️ Screenshots
 
-## Home Window
+### Home Window
 
-![Screenshot](Screenshot.png)
+![Screenshot 1](Screenshot1.png)
 
-## Interview Window
+### Interview Window
 
 ![Screenshot 2](Screenshot2.png)
 
-## Reports Section 1
+### Reports Section 1
 
 ![Screenshot 3](Screenshot3.png)
 
-## Reports Section 2
+### Reports Section 2
 
 ![Screenshot 4](Screenshot4.png)
 
@@ -44,12 +46,21 @@ AceHire is an AI-powered interview platform that simulates **real-world job inte
 
 ### Prerequisites
 
-- Node.js installed
+- Node.js installed (v18+ recommended)
 
-### Steps
+- npm (comes with Node.js)
 
-1. Install dependencies  
+- A Google Gemini API key
 
-   ```bash
+---
 
-   npm install
+### Clone and Install Dependencies
+
+```bash
+
+git clone https://github.com/mohakamran/acehire.git
+
+cd acehire
+
+npm install
+
