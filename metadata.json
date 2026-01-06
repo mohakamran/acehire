@@ -1,0 +1,7 @@
+{
+  "name": "AceHire AI Interviewer",
+  "description": "A professional AI-driven interview platform that conducts realistic, field-specific job interviews with honest evaluation reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
